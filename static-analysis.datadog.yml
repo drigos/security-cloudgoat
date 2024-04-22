@@ -1,13 +1,5 @@
 schema-version: v1
 rulesets:
-- javascript-best-practices
-- javascript-browser-security
-- javascript-code-style
-- javascript-common-security
-- javascript-express
-- javascript-inclusive
-- javascript-node-security
-- jsx-react
 - python-best-practices
 - python-code-style
 - python-design
@@ -16,6 +8,7 @@ rulesets:
 - python-inclusive
 - python-pandas
 - python-security
+- docker-best-practices
 ignore:
 - */static/*
 - */terraform/*

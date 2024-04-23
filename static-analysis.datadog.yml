@@ -10,5 +10,5 @@ rulesets:
 - python-security
 - docker-best-practices
 ignore:
-- "*/static/*"
-- "*/terraform/*"
+- "**/static/*"
+- "**/terraform/*"

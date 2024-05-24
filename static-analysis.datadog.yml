@@ -11,4 +11,4 @@ rulesets:
 - docker-best-practices
 ignore:
 - "*/static/*"
-- "*/terraform/*"
+- "**/terraform/**/*"
